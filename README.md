@@ -9,7 +9,7 @@ Conhecimentos em andamento:
 
 💻 Logica de programação com python
 
-💬 Teremos atualizações de perfil, portifólio e projetos academicos, como forma de visualização de aprendizado e evolução.
+💬 Teremos atualizações de perfil, portifólio e projetos academicos, como forma de visualização do aprendizado e evolução.
 
 Me acompanhe com:
 
