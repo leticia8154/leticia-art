@@ -15,9 +15,9 @@ Me acompanhe com:
 
 🌐 [Linkedln](www.linkedin.com/in/leticia-araujo-da-silva-amparo-992a15364)
 
-🔢 [Projeto calculadora](https://github.com/leticia8154/Projeto/blob/main/calculadora%20pronta%20com%20design%20e%20funcionalidade)
+🔢 [Projeto calculadora](https://leticia8154.github.io/Projeto/)
 
-📁 [Portifólio](https://github.com/leticia8154/Portifolio/blob/main/portifolio%20pronto%20para%20visualiza%C3%A7%C3%A3o%20e%20intera%C3%A7%C3%A3o)
+📁 [Portifólio](https://leticia8154.github.io/Portifolio/)
   
 
 
