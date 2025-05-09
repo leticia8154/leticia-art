@@ -17,7 +17,7 @@ Me acompanhe com:
 
 🔢 [Projeto calculadora](https://github.com/leticia8154/Projeto/blob/main/calculadora%20pronta%20com%20design%20e%20funcionalidade)
 
-📁 [Portifólio](https://github.com/leticia8154/Portifolio#portifolio)
+📁 [Portifólio](https://github.com/leticia8154/Portifolio/blob/main/portifolio%20pronto%20para%20visualiza%C3%A7%C3%A3o%20e%20intera%C3%A7%C3%A3o)
   
 
 
