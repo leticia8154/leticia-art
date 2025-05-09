@@ -13,6 +13,6 @@ Conhecimentos em andamento:
 
 Me acompanhe com:
 
-🌐 [Linkedln] www.linkedin.com/in/leticia-araujo-da-silva-amparo-992a15364
+🌐 [Linkedln] (www.linkedin.com/in/leticia-araujo-da-silva-amparo-992a15364)
 
 
