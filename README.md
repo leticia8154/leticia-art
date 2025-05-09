@@ -7,7 +7,7 @@ Conhecimentos em andamento:
 
 💾 Banco de dados
 
-💻 Logica de programação com pyton
+💻 Logica de programação com python
 
 💬 Teremos atualizações de perfil, portifólio e projetos academicos, como forma de visualização de aprendizado e evolução.
 
