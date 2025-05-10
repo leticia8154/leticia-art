@@ -13,7 +13,7 @@ Conhecimentos em andamento:
 
 Me acompanhe com:
 
-🌐 [Linkedln](www.linkedin.com/in/leticia-araujo-da-silva-amparo-992a15364)
+🌐 [Meu LinkedIl](www.linkedin.com/in/leticia-araujo-da-silva-amparo-992a15364)
 
 🔢 [Projeto calculadora](https://leticia8154.github.io/Projeto/)
 
