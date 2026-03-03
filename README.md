@@ -1,5 +1,5 @@
 # Olá! Me chamo Letícia
-🔅Estou cursando Análise e Desenvolvimento de sistemas no CEUB - primeiro semestre. Busco aproveitar cada oportinidade de aprendizado e adquirir novas esperiências!
+🔅Curso Análise e Desenvolvimento de sistemas no CEUB. Busco aproveitar cada oportinidade de aprendizado e adquirir novas esperiências!
 
 Conhecimentos em andamento:
 
