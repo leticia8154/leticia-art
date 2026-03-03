@@ -3,7 +3,7 @@
 
 Conhecimentos em andamento:
 
-📈 Engenharia de software 
+📈 Análise e projeto de sistemas
 
 💾 Banco de dados
 
